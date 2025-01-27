@@ -1,0 +1,22 @@
+{
+  "name": "brotherly-love-properties-block-theme-v2",
+  "version": "1.0.0",
+  "main": "./scripts/watch.js",
+  "scripts": {
+    "init": "node ./scripts/build.js",
+    "build": "node ./scripts/build.js",
+    "deploy": "node ./scripts/deploy.js",
+    "watch": "node ./scripts/build.js && node ./scripts/watch.js",
+    "watch:dev": "nodemon .scripts/watch.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "dotenv": "^16.4.7",
+    "nodemon": "^3.1.9",
+    "zip-a-folder": "^3.1.8"
+  },
+  "type": "module"
+}
