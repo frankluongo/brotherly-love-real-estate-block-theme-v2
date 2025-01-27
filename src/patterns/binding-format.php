@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Post format name
- * Slug: blreblocktheme/binding-format
- * Categories: blreblocktheme_post-format
+ * Slug: brotherlylovepropertiesblockthemev2/binding-format
+ * Categories: brotherlylovepropertiesblockthemev2_post-format
  * Description: Prints the name of the post format with the help of the Block Bindings API.
  *
  * @package WordPress
@@ -11,6 +11,6 @@
  */
 
 ?>
-<!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"blreblocktheme/format"}}},"fontSize":"small"} -->
+<!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"brotherlylovepropertiesblockthemev2/format"}}},"fontSize":"small"} -->
 <p class="has-small-font-size"></p>
 <!-- /wp:paragraph -->

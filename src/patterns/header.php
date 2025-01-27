@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header
- * Slug: blreblocktheme/header
+ * Slug: brotherlylovepropertiesblockthemev2/header
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with site title and navigation.

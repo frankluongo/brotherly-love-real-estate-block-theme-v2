@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Page template for the right-aligned blog
- * Slug: blreblocktheme/template-page-vertical-header-blog
+ * Slug: brotherlylovepropertiesblockthemev2/template-page-vertical-header-blog
  * Template Types: page
  * Viewport width: 1400
  *

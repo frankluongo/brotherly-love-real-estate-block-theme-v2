@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Shop homepage
- * Slug: blreblocktheme/page-shop-home
- * Categories: blreblocktheme_page
+ * Slug: brotherlylovepropertiesblockthemev2/page-shop-home
+ * Categories: brotherlylovepropertiesblockthemev2_page
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,6 +16,6 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"blreblocktheme/banner-intro-image"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/grid-with-categories"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/media-instagram-grid"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/banner-intro-image"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/grid-with-categories"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/media-instagram-grid"} /-->

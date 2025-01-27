@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Right-aligned blog, search
- * Slug: blreblocktheme/template-search-vertical-header-blog
+ * Slug: brotherlylovepropertiesblockthemev2/template-search-vertical-header-blog
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
@@ -27,11 +27,11 @@
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
 			<!-- wp:query-title {"type":"search","fontSize":"large"} /-->
-			<!-- wp:pattern {"slug":"blreblocktheme/hidden-search"} /-->
+			<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/hidden-search"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
-			<!-- wp:pattern {"slug":"blreblocktheme/template-query-loop-vertical-header-blog"} /-->
+			<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/template-query-loop-vertical-header-blog"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->

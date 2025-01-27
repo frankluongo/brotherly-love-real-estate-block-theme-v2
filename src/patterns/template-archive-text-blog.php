@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Text-only blog, archive
- * Slug: blreblocktheme/template-archive-text-blog
+ * Slug: brotherlylovepropertiesblockthemev2/template-archive-text-blog
  * Template Types: archive
  * Viewport width: 1400
  * Inserter: no
@@ -21,7 +21,7 @@
 	<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 	<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 	<!-- /wp:spacer -->
-	<!-- wp:pattern {"slug":"blreblocktheme/template-query-loop-text-blog"} /-->
+	<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/template-query-loop-text-blog"} /-->
 </main>
 <!-- /wp:group -->
 

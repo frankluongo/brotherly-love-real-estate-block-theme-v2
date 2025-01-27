@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with large title
- * Slug: blreblocktheme/header-large-title
+ * Slug: brotherlylovepropertiesblockthemev2/header-large-title
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with large site title and right-aligned navigation.

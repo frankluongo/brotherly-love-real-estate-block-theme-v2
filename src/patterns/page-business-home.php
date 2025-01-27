@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Business homepage
- * Slug: blreblocktheme/page-business-home
- * Categories: blreblocktheme_page, featured
+ * Slug: brotherlylovepropertiesblockthemev2/page-business-home
+ * Categories: brotherlylovepropertiesblockthemev2_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,9 +16,9 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"blreblocktheme/cta-centered-heading"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/overlapped-images"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/services-3-col"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/testimonials-large"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/pricing-2-col"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/cta-centered-heading"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/overlapped-images"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/services-3-col"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/testimonials-large"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/pricing-2-col"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/cta-newsletter"} /-->

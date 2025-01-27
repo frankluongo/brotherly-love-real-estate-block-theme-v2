@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Vertical header
- * Slug: blreblocktheme/vertical-header
+ * Slug: brotherlylovepropertiesblockthemev2/vertical-header
  * Categories: header
  * Block Types: core/template-part/vertical-header
  * Description: Vertical Header with site title and navigation

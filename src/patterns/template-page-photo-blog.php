@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Photo blog page
- * Slug: blreblocktheme/template-page-photo-blog
+ * Slug: brotherlylovepropertiesblockthemev2/template-page-photo-blog
  * Template Types: page
  * Viewport width: 1400
  *

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer
- * Slug: blreblocktheme/footer
+ * Slug: brotherlylovepropertiesblockthemev2/footer
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer columns with logo, title, tagline and links.
@@ -42,23 +42,23 @@
 			<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|80"}},"layout":{"type":"flex","flexWrap":"wrap","verticalAlignment":"top","justifyContent":"space-between"}} -->
 			<div class="wp-block-group">
 				<!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 				<!-- /wp:navigation -->
 
 				<!-- wp:navigation {"overlayMenu":"never","layout":{"type":"flex","orientation":"vertical"}} -->
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 
-					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 				<!-- /wp:navigation -->
 			</div>
 				<!-- /wp:group -->

@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Centered header
- * Slug: blreblocktheme/header-centered
+ * Slug: brotherlylovepropertiesblockthemev2/header-centered
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with centered site title and navigation.

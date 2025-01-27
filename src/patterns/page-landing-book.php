@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Landing page for book
- * Slug: blreblocktheme/page-landing-book
- * Categories: blreblocktheme_page, featured
+ * Slug: brotherlylovepropertiesblockthemev2/page-landing-book
+ * Categories: brotherlylovepropertiesblockthemev2_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,9 +16,9 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"blreblocktheme/hero-book"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/cta-book-links"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/banner-about-book"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/cta-book-locations"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/text-faqs"} /-->
-<!-- wp:pattern {"slug":"blreblocktheme/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/hero-book"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/cta-book-links"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/banner-about-book"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/cta-book-locations"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/text-faqs"} /-->
+<!-- wp:pattern {"slug":"brotherlylovepropertiesblockthemev2/cta-newsletter"} /-->

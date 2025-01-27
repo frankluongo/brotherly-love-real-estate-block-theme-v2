@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Footer with columns
- * Slug: blreblocktheme/footer-columns
+ * Slug: brotherlylovepropertiesblockthemev2/footer-columns
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer columns with title, tagline and links.
@@ -30,26 +30,26 @@
 				<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
 				<div class="wp-block-group" style="padding-right:0;padding-left:0">
 					<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium"} -->
-					<h3 class="wp-block-heading has-medium-font-size" style="font-style:normal;font-weight:700"><?php esc_html_e( 'Stories', 'blreblocktheme' ); ?></h3>
+					<h3 class="wp-block-heading has-medium-font-size" style="font-style:normal;font-weight:700"><?php esc_html_e( 'Stories', 'brotherlylovepropertiesblockthemev2' ); ?></h3>
 					<!-- /wp:heading -->
-					<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"medium","layout":{"type":"flex","orientation":"vertical"},"ariaLabel":"<?php esc_attr_e( 'Stories', 'blreblocktheme' ); ?>"} -->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"medium","layout":{"type":"flex","orientation":"vertical"},"ariaLabel":"<?php esc_attr_e( 'Stories', 'brotherlylovepropertiesblockthemev2' ); ?>"} -->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Blog', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'About', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'FAQs', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Authors', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 					<!-- /wp:navigation -->
 				</div>
 				<!-- /wp:group -->
 				<!-- wp:group {"style":{"spacing":{"padding":{"right":"0","left":"0"}}},"layout":{"type":"constrained"}} -->
 				<div class="wp-block-group" style="padding-right:0;padding-left:0">
 					<!-- wp:heading {"level":3,"style":{"typography":{"fontStyle":"normal","fontWeight":"700"}},"fontSize":"medium"} -->
-					<h3 class="wp-block-heading has-medium-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html_x( 'Fleurs', 'Example brand name.', 'blreblocktheme' ); ?></h3>
+					<h3 class="wp-block-heading has-medium-font-size" style="font-style:normal;font-weight:700"><?php echo esc_html_x( 'Fleurs', 'Example brand name.', 'brotherlylovepropertiesblockthemev2' ); ?></h3>
 					<!-- /wp:heading -->
-					<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"medium","layout":{"type":"flex","orientation":"vertical"},"ariaLabel":"<?php esc_attr_e( 'Featured', 'blreblocktheme' ); ?>"} -->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'blreblocktheme' ); ?>","url":"#"} /-->
-						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'blreblocktheme' ); ?>","url":"#"} /-->
+					<!-- wp:navigation {"overlayMenu":"never","style":{"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"medium","layout":{"type":"flex","orientation":"vertical"},"ariaLabel":"<?php esc_attr_e( 'Featured', 'brotherlylovepropertiesblockthemev2' ); ?>"} -->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Events', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Shop', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Patterns', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
+						<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Themes', 'brotherlylovepropertiesblockthemev2' ); ?>","url":"#"} /-->
 					<!-- /wp:navigation -->
 				</div>
 				<!-- /wp:group -->
@@ -63,15 +63,15 @@
 		<!-- wp:group {"align":"full","layout":{"type":"flex","flexWrap":"wrap","justifyContent":"space-between"}} -->
 		<div class="wp-block-group alignfull">
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'Twenty Twenty-Five', 'blreblocktheme' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'Twenty Twenty-Five', 'brotherlylovepropertiesblockthemev2' ); ?></p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"fontSize":"small"} -->
 			<p class="has-small-font-size">
 			<?php
 			printf(
 				/* translators: Designed with WordPress. %s: WordPress link. */
-				esc_html__( 'Designed with %s', 'blreblocktheme' ),
-				'<a href="' . esc_url( __( 'https://wordpress.org', 'blreblocktheme' ) ) . '" rel="nofollow">WordPress</a>'
+				esc_html__( 'Designed with %s', 'brotherlylovepropertiesblockthemev2' ),
+				'<a href="' . esc_url( __( 'https://wordpress.org', 'brotherlylovepropertiesblockthemev2' ) ) . '" rel="nofollow">WordPress</a>'
 			);
 			?>
 			</p>

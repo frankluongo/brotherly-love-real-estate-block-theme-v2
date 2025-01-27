@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with columns
- * Slug: blreblocktheme/header-columns
+ * Slug: brotherlylovepropertiesblockthemev2/header-columns
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with site title and navigation in columns.
