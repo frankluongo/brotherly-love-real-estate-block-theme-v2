@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Landing page for podcast
- * Slug: brotherlyloverealestateblocktheme/page-landing-podcast
- * Categories: brotherlyloverealestateblocktheme_page, featured
+ * Slug: blreblocktheme/page-landing-podcast
+ * Categories: blreblocktheme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,8 +16,8 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/hero-podcast"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/heading-and-paragraph-with-image"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/logos"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/grid-videos"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/hero-podcast"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/heading-and-paragraph-with-image"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/logos"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/grid-videos"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/cta-newsletter"} /-->

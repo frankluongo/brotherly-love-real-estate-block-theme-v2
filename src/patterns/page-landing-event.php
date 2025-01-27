@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Landing page for event
- * Slug: brotherlyloverealestateblocktheme/page-landing-event
- * Categories: brotherlyloverealestateblocktheme_page, featured
+ * Slug: blreblocktheme/page-landing-event
+ * Categories: blreblocktheme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,8 +16,8 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/hero-full-width-image"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/heading-and-paragraph-with-image"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/banner-description-images-grid"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/text-faqs"} /-->
-<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/contact-centered-social-link"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/hero-full-width-image"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/heading-and-paragraph-with-image"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/banner-description-images-grid"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/text-faqs"} /-->
+<!-- wp:pattern {"slug":"blreblocktheme/contact-centered-social-link"} /-->

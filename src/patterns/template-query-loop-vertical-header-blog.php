@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Right-aligned posts
- * Slug: brotherlyloverealestateblocktheme/template-query-loop-vertical-header-blog
+ * Slug: blreblocktheme/template-query-loop-vertical-header-blog
  * Inserter: no
  *
  * @package WordPress
@@ -44,7 +44,7 @@
 
 	<!-- wp:query-no-results -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 		<!-- /wp:paragraph -->
 	<!-- /wp:query-no-results -->
 </div>

@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Portfolio homepage
- * Slug: brotherlyloverealestateblocktheme/page-portfolio-home
- * Categories: brotherlyloverealestateblocktheme_page, posts
+ * Slug: blreblocktheme/page-portfolio-home
+ * Categories: blreblocktheme_page, posts
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -24,7 +24,7 @@
 			<!-- wp:column {"width":"50%"} -->
 			<div class="wp-block-column" style="flex-basis:50%">
 				<!-- wp:heading {"align":"wide","fontSize":"x-large"} -->
-				<h2 class="wp-block-heading alignwide has-x-large-font-size"><?php esc_html_e( 'My name is Anna Möller and these are some of my photo projects.', 'brotherlyloverealestateblocktheme' ); ?></h2>
+				<h2 class="wp-block-heading alignwide has-x-large-font-size"><?php esc_html_e( 'My name is Anna Möller and these are some of my photo projects.', 'blreblocktheme' ); ?></h2>
 				<!-- /wp:heading -->
 			</div>
 			<!-- /wp:column -->
@@ -62,7 +62,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -84,7 +84,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -118,7 +118,7 @@
 		<!-- /wp:post-template -->
 		<!-- wp:query-no-results -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 		<!-- /wp:paragraph -->
 		<!-- /wp:query-no-results -->
 	</div>
@@ -151,7 +151,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -173,7 +173,7 @@
 				<!-- /wp:post-template -->
 				<!-- wp:query-no-results -->
 				<!-- wp:paragraph -->
-				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+				<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 				<!-- /wp:paragraph -->
 				<!-- /wp:query-no-results -->
 			</div>
@@ -200,7 +200,7 @@
 		<!-- /wp:post-template -->
 		<!-- wp:query-no-results -->
 		<!-- wp:paragraph -->
-		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+		<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 		<!-- /wp:paragraph -->
 		<!-- /wp:query-no-results -->
 	</div>
@@ -223,10 +223,10 @@
 		<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 		<div class="wp-block-group alignwide">
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'Twenty Twenty-Five', 'brotherlyloverealestateblocktheme' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'Twenty Twenty-Five', 'blreblocktheme' ); ?></p>
 			<!-- /wp:paragraph -->
 			<!-- wp:paragraph {"fontSize":"small"} -->
-			<p class="has-small-font-size"><?php esc_html_e( 'email@example.com', 'brotherlyloverealestateblocktheme' ); ?><br><?php echo esc_html_x( '+1 555 349 1806', 'Phone number.', 'brotherlyloverealestateblocktheme' ); ?></p>
+			<p class="has-small-font-size"><?php esc_html_e( 'email@example.com', 'blreblocktheme' ); ?><br><?php echo esc_html_x( '+1 555 349 1806', 'Phone number.', 'blreblocktheme' ); ?></p>
 			<!-- /wp:paragraph -->
 		</div>
 		<!-- /wp:group -->

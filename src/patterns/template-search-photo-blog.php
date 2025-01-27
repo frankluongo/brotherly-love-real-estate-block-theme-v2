@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Photo blog search results
- * Slug: brotherlyloverealestateblocktheme/template-search-photo-blog
+ * Slug: blreblocktheme/template-search-photo-blog
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
@@ -19,10 +19,10 @@
 	<!-- wp:query-title {"type":"search","textAlign":"center","align":"wide"} /-->
 	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/hidden-search"} /-->
+		<!-- wp:pattern {"slug":"blreblocktheme/hidden-search"} /-->
 	</div>
 	<!-- /wp:group -->
-	<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/template-query-loop-photo-blog"} /-->
+	<!-- wp:pattern {"slug":"blreblocktheme/template-query-loop-photo-blog"} /-->
 </main>
 <!-- /wp:group -->
 

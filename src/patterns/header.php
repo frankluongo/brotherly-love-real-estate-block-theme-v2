@@ -1,14 +1,10 @@
 <?php
 /**
  * Title: Header
- * Slug: brotherlyloverealestateblocktheme/header
+ * Slug: blreblocktheme/header
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with site title and navigation.
- *
- * @package WordPress
- * @subpackage Twenty_Twenty_Five
- * @since Twenty Twenty-Five 1.0
  */
 
 ?>

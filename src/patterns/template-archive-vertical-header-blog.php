@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Archive for the right-aligned blog
- * Slug: brotherlyloverealestateblocktheme/template-archive-vertical-header-blog
+ * Slug: blreblocktheme/template-archive-vertical-header-blog
  * Template Types: archive
  * Viewport width: 1400
  * Inserter: no
@@ -33,7 +33,7 @@
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
 
-			<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/template-query-loop-vertical-header-blog"} /-->
+			<!-- wp:pattern {"slug":"blreblocktheme/template-query-loop-vertical-header-blog"} /-->
 
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>

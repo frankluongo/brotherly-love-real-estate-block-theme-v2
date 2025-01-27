@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: News blog home
- * Slug: brotherlyloverealestateblocktheme/template-home-news-blog
+ * Slug: blreblocktheme/template-home-news-blog
  * Template Types: front-page, index, home
  * Viewport width: 1400
  * Inserter: no
@@ -37,7 +37,7 @@
 						<!-- /wp:post-template -->
 						<!-- wp:query-no-results -->
 							<!-- wp:paragraph -->
-							<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'brotherlyloverealestateblocktheme' ); ?></p>
+							<p><?php echo esc_html_x( 'Sorry, but nothing was found. Please try a search with different keywords.', 'Message explaining that there are no results returned from a search.', 'blreblocktheme' ); ?></p>
 							<!-- /wp:paragraph -->
 						<!-- /wp:query-no-results -->
 					</div>

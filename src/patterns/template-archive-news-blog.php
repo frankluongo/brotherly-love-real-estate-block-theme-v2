@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: News blog archive
- * Slug: brotherlyloverealestateblocktheme/template-archive-news-blog
+ * Slug: blreblocktheme/template-archive-news-blog
  * Template Types: archive
  * Viewport width: 1400
  * Inserter: no
@@ -30,7 +30,7 @@
 	<!-- /wp:group -->
 	<!-- wp:group {"align":"wide","layout":{"type":"default"}} -->
 	<div class="wp-block-group alignwide">
-		<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/template-query-loop-news-blog"} /-->
+		<!-- wp:pattern {"slug":"blreblocktheme/template-query-loop-news-blog"} /-->
 	</div>
 	<!-- /wp:group -->
 </main>

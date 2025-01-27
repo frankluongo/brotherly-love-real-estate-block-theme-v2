@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Centered footer with social links
- * Slug: brotherlyloverealestateblocktheme/footer-social
+ * Slug: blreblocktheme/footer-social
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer with centered site title and social links.
@@ -17,10 +17,10 @@
 	<!-- wp:group {"style":{"spacing":{"blockGap":"var:preset|spacing|10"}},"layout":{"type":"flex","orientation":"vertical","justifyContent":"stretch"}} -->
 	<div class="wp-block-group">
 		<!-- wp:site-title {"level":2,"textAlign":"center","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"}},"fontSize":"x-large"} /-->
-		<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"},"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"x-large","layout":{"type":"flex","justifyContent":"center"},"ariaLabel":"<?php esc_attr_e( 'Social media', 'brotherlyloverealestateblocktheme' ); ?>"} -->
-		<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Facebook', 'brotherlyloverealestateblocktheme' ); ?>","url":"#"} /-->
-		<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Instagram', 'brotherlyloverealestateblocktheme' ); ?>","url":"#"} /-->
-		<!-- wp:navigation-link {"label":"<?php echo esc_html_x( 'X', 'Refers to the social media platform formerly known as Twitter.', 'brotherlyloverealestateblocktheme' ); ?>","url":"#"} /-->
+		<!-- wp:navigation {"overlayMenu":"never","style":{"typography":{"textTransform":"uppercase","fontStyle":"normal","fontWeight":"400"},"spacing":{"blockGap":"var:preset|spacing|20"}},"fontSize":"x-large","layout":{"type":"flex","justifyContent":"center"},"ariaLabel":"<?php esc_attr_e( 'Social media', 'blreblocktheme' ); ?>"} -->
+		<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Facebook', 'blreblocktheme' ); ?>","url":"#"} /-->
+		<!-- wp:navigation-link {"label":"<?php esc_html_e( 'Instagram', 'blreblocktheme' ); ?>","url":"#"} /-->
+		<!-- wp:navigation-link {"label":"<?php echo esc_html_x( 'X', 'Refers to the social media platform formerly known as Twitter.', 'blreblocktheme' ); ?>","url":"#"} /-->
 		<!-- /wp:navigation -->
 	</div>
 	<!-- /wp:group -->
@@ -32,8 +32,8 @@
 		<?php
 		printf(
 			/* translators: Designed with WordPress. %s: WordPress link. */
-			esc_html__( 'Designed with %s', 'brotherlyloverealestateblocktheme' ),
-			'<a href="' . esc_url( __( 'https://wordpress.org', 'brotherlyloverealestateblocktheme' ) ) . '" rel="nofollow">WordPress</a>'
+			esc_html__( 'Designed with %s', 'blreblocktheme' ),
+			'<a href="' . esc_url( __( 'https://wordpress.org', 'blreblocktheme' ) ) . '" rel="nofollow">WordPress</a>'
 		);
 		?>
 		</p>
