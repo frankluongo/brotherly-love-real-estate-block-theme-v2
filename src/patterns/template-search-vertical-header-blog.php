@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Right-aligned blog, search
- * Slug: twentytwentyfive/template-search-vertical-header-blog
+ * Slug: brotherlyloverealestateblocktheme/template-search-vertical-header-blog
  * Template Types: search
  * Viewport width: 1400
  * Inserter: no
@@ -27,11 +27,11 @@
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
 			<!-- wp:query-title {"type":"search","fontSize":"large"} /-->
-			<!-- wp:pattern {"slug":"twentytwentyfive/hidden-search"} /-->
+			<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/hidden-search"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->
-			<!-- wp:pattern {"slug":"twentytwentyfive/template-query-loop-vertical-header-blog"} /-->
+			<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/template-query-loop-vertical-header-blog"} /-->
 			<!-- wp:spacer {"height":"var:preset|spacing|50"} -->
 			<div style="height:var(--wp--preset--spacing--50)" aria-hidden="true" class="wp-block-spacer"></div>
 			<!-- /wp:spacer -->

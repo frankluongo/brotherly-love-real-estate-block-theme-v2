@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Business homepage
- * Slug: twentytwentyfive/page-business-home
- * Categories: twentytwentyfive_page, featured
+ * Slug: brotherlyloverealestateblocktheme/page-business-home
+ * Categories: brotherlyloverealestateblocktheme_page, featured
  * Keywords: starter
  * Block Types: core/post-content
  * Post Types: page, wp_template
@@ -16,9 +16,9 @@
 
 ?>
 
-<!-- wp:pattern {"slug":"twentytwentyfive/cta-centered-heading"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfive/overlapped-images"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfive/services-3-col"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfive/testimonials-large"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfive/pricing-2-col"} /-->
-<!-- wp:pattern {"slug":"twentytwentyfive/cta-newsletter"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/cta-centered-heading"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/overlapped-images"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/services-3-col"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/testimonials-large"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/pricing-2-col"} /-->
+<!-- wp:pattern {"slug":"brotherlyloverealestateblocktheme/cta-newsletter"} /-->

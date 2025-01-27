@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Header with columns
- * Slug: twentytwentyfive/header-columns
+ * Slug: brotherlyloverealestateblocktheme/header-columns
  * Categories: header
  * Block Types: core/template-part/header
  * Description: Header with site title and navigation in columns.

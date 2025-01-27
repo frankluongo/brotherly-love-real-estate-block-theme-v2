@@ -1,8 +1,8 @@
 <?php
 /**
  * Title: Post format name
- * Slug: twentytwentyfive/binding-format
- * Categories: twentytwentyfive_post-format
+ * Slug: brotherlyloverealestateblocktheme/binding-format
+ * Categories: brotherlyloverealestateblocktheme_post-format
  * Description: Prints the name of the post format with the help of the Block Bindings API.
  *
  * @package WordPress
@@ -11,6 +11,6 @@
  */
 
 ?>
-<!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"twentytwentyfive/format"}}},"fontSize":"small"} -->
+<!-- wp:paragraph {"metadata":{"bindings":{"content":{"source":"brotherlyloverealestateblocktheme/format"}}},"fontSize":"small"} -->
 <p class="has-small-font-size"></p>
 <!-- /wp:paragraph -->

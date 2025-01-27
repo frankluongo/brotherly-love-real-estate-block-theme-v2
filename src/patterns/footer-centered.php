@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Centered footer
- * Slug: twentytwentyfive/footer-centered
+ * Slug: brotherlyloverealestateblocktheme/footer-centered
  * Categories: footer
  * Block Types: core/template-part/footer
  * Description: Footer with centered site title and tagline.
@@ -30,8 +30,8 @@
 		<?php
 		printf(
 			/* translators: Designed with WordPress. %s: WordPress link. */
-			esc_html__( 'Designed with %s', 'twentytwentyfive' ),
-			'<a href="' . esc_url( __( 'https://wordpress.org', 'twentytwentyfive' ) ) . '" rel="nofollow">WordPress</a>'
+			esc_html__( 'Designed with %s', 'brotherlyloverealestateblocktheme' ),
+			'<a href="' . esc_url( __( 'https://wordpress.org', 'brotherlyloverealestateblocktheme' ) ) . '" rel="nofollow">WordPress</a>'
 		);
 		?>
 	</p>

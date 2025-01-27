@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Page template for the right-aligned blog
- * Slug: twentytwentyfive/template-page-vertical-header-blog
+ * Slug: brotherlyloverealestateblocktheme/template-page-vertical-header-blog
  * Template Types: page
  * Viewport width: 1400
  *

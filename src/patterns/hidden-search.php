@@ -1,7 +1,7 @@
 <?php
 /**
  * Title: Search
- * Slug: twentytwentyfive/hidden-search
+ * Slug: brotherlyloverealestateblocktheme/hidden-search
  * Inserter: no
  *
  * @package WordPress
@@ -11,4 +11,4 @@
 
 ?>
 
-<!-- wp:search {"label":"<?php echo esc_html_x( 'Search', 'Search form label.', 'twentytwentyfive' ); ?>","showLabel":false,"placeholder":"<?php echo esc_attr_x( 'Type here...', 'Search input field placeholder text.', 'twentytwentyfive' ); ?>","buttonText":"<?php echo esc_attr_x( 'Search', 'Button text. Verb.', 'twentytwentyfive' ); ?>"} /-->
+<!-- wp:search {"label":"<?php echo esc_html_x( 'Search', 'Search form label.', 'brotherlyloverealestateblocktheme' ); ?>","showLabel":false,"placeholder":"<?php echo esc_attr_x( 'Type here...', 'Search input field placeholder text.', 'brotherlyloverealestateblocktheme' ); ?>","buttonText":"<?php echo esc_attr_x( 'Search', 'Button text. Verb.', 'brotherlyloverealestateblocktheme' ); ?>"} /-->
